@@ -1,0 +1,16 @@
+.field {
+    background-color: #edededcc;
+    font-weight: 500;
+    /* margin : 0px 10px -10px 10px; */
+   
+    background-color: #edededcc;
+    font-weight: 500;
+    /* margin: 0px 10px -10px 10px; */
+    margin: -5px auto;
+    padding: 5px 10px;
+    width: 220px;
+    height: 25px;
+    text-align: left;
+    box-shadow: 2px 2px 2px #dddddd;
+    border-radius: 5px;
+}

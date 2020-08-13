@@ -1,0 +1,58 @@
+#editpane {
+    /* border-left-style: solid;
+    border-left-width: 1px;
+    border-left-color: #FFC107; 
+    border-right-color: #FFC107;  */
+    text-align: center;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    /* background-color: #eee; */
+}
+
+#canvasContainer {
+    /* height: 450px; */
+    /* width: 800px; */
+     /* border-style: solid;
+    border-color: #FFC107;
+    border-width: 1px;  */
+    text-align: center;
+    margin-left: 5px;
+}
+
+#edittoolbar {
+    position: relative;
+    z-index: 5;
+    height: 0px;
+    /* 在缩放时，使edittoolbar工具被遮挡而不是换行（但是并不是很好的方案） */
+    min-width: 705px;
+    /* border-bottom-style: solid; */
+    /* border-bottom-width: 1px; */
+    /* border-bottom-color: #FFC107; */
+}
+
+#playcontrol {
+    /* margin-top:-60px; */
+
+
+    height: 0px;
+    position: relative;
+     /* bottom: 0; */
+    /* top: 330; */
+    /* min-width: 705px; */
+    /* text-align: center; */
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #FFC107;
+
+    
+}
+
+.quickbutton{
+height:15px;
+width: 15px;
+text-align: center;
+}
+
+.ant-layout-content{
+    overflow-y: hidden;
+}

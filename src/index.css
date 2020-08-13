@@ -1,0 +1,83 @@
+/* global css */
+body{
+    overflow: hidden;
+}
+.div{
+    font-family: 'Avenir Heavy', Arial, Helvetica, sans-serif;
+}
+.pane {
+    background: #fff;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 1px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 2px;
+    margin-right: 2px;
+    border-radius: 5px;
+    box-shadow:  0px 0px 4px 1px #dddddd;
+}
+
+.header {
+    background-color: #eee;
+    margin: 5px;
+    padding-left: 10px;
+    padding-top: 4px;
+    border-radius: 5px;
+    height: 40px;
+    font-size: 20px;
+    font-family: 'Avenir Heavy', Arial, Helvetica, sans-serif;
+}
+
+.ant-btn-link {
+    color:  #00aeff !important;
+}
+
+/* project id 1938658 在线引入*/
+@font-face {
+    font-family: 'iconfont';  /* project id 1938658 */
+    src: url('//at.alicdn.com/t/font_1938658_pbkk1evkkqc.eot');
+    src: url('//at.alicdn.com/t/font_1938658_pbkk1evkkqc.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_1938658_pbkk1evkkqc.woff2') format('woff2'),
+    url('//at.alicdn.com/t/font_1938658_pbkk1evkkqc.woff') format('woff'),
+    url('//at.alicdn.com/t/font_1938658_pbkk1evkkqc.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_1938658_pbkk1evkkqc.svg#iconfont') format('svg');
+  }
+
+  /* 本地引入 */
+/* @font-face {
+font-family: 'iconfont';  
+src: url('/utils/fonts/iconfont.eot');
+src: url('/utils/fonts/iconfont.eot?#iefix') format('embedded-opentype'),
+url('/utils/fonts/iconfont.woff2') format('woff2'),
+url('/utils/fonts/iconfont.woff') format('woff'),
+url('/utils/fonts/iconfont.ttf') format('truetype'),
+url('/utils/fonts/iconfont.svg#iconfont') format('svg');
+} */
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 25px;
+    color:rgb(89,89,89);
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.headerDivder{
+    font-family: 'Avenir Heavy', Arial, Helvetica, sans-serif;
+}
+
+.ant-spin-nested-loading > div > .ant-spin {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
+/* .anticon-close-circle{
+    z-index: 1;
+}
+.colorBtn{
+    z-index: 0;
+} */
+

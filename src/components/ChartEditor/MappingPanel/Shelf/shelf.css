@@ -1,0 +1,30 @@
+.shelf {
+    width: 220px;
+    height: 25px;
+    margin : 10px auto;
+    box-shadow: 2px 2px 2px #dddddd;
+    border-radius: 5px;
+}
+
+.channelName {
+    width: 55px;
+    height: 25px;
+    border-radius: 5px 0px 0px 5px;
+    background-color: rgba(55,65,92,.2);
+    text-align:center;
+     padding-top: 5px;  /*标签文字居中 */
+}
+
+.channelSlot {
+    /* width: 190px; */
+    height: 25px;
+    background-color: #fff;
+    padding: 3px 12px; /*标签文字居中 */
+    /* text-align: left; */
+    text-align:center;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.ant-btn-background-ghost.ant-btn-link{
+    margin-top: -5px;
+}

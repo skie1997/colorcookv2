@@ -1,0 +1,90 @@
+更新：
+Color palettes-icon替换 
+
+canvas选择卡片-卡片边框、点击空白处边框变成灰色 
+
+Charts 编辑模式时-icon变大 
+
+Heatmap线框bug， heatmap居中问题，刻度颜色 
+
+图例文字放不下的时候，用字母+省略号，hover再出现 
+
+图例大小试一下， 
+
+卡片边框颜色调整 
+
+浅色背景-再浅一点 
+
+Chart填充色半透明问题 
+
+allchart-axis坐标轴文字放不下的时候，用字母+省略号，hover再出现 
+
+allchart- axis横坐标横着放，文字放不下的时候，用字母+省略号，hover再出现 
+
+雷达图不填充 
+
+Areachart去掉点，全填充 
+
+确保8-12个色盘 
+
+Baseline颜色推荐的panel 
+
+每个用户的log data 
+
+- 上传数据(drag)到完成dashboard(save)所用的时间 
+
+- bookmarks点击次数，canvas右上角 
+
+- 替换颜色+采用颜色次数(有可能自己在色彩空间中选择)  
+
+- 替换颜色-点击图例，采用颜色-点击picker时间间隔 
+
+-自己配和我们推荐，花费的时间 
+
+点击图例-time 
+
+点击推荐颜色-time 
+
+使用调色板-time 
+
+- 试用色盘次数 
+
+Data pane 
+
+UpLoadData 
+
+Color palettes 
+
+prepare for replacing color in color palettes 
+
+replace color with suggestion in color palettes 
+
+replace color by self in color palettes 
+
+stop to replace color in color palettes 
+
+delete color in color palettes 
+
+prepare for adding color in color palettes 
+
+add color with suggestion in color palettes 
+
+add color by self in color palettes 
+
+stop to add color in color palettes 
+
+change colorset in color palettes 
+
+Canvas pane 
+
+prepare for replacing color in legend 
+
+replace color with suggestion in legend 
+
+replace color by self in legend 
+
+stop to replace color in legend 
+
+bookMarks 
+
+SaveDashBoard 

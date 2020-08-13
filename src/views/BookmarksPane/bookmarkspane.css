@@ -1,0 +1,63 @@
+#story {
+    margin-bottom: 0px;
+    /* overflow-x: auto;
+    overflow-y: hidden; */
+}
+
+#storyPreview {
+    margin-bottom: 0px;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+#storyline {
+    display: flex;
+    padding: 8px;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+#storylineHeader {
+    height: 40px;
+    background-color: #FDC209;
+    padding-left: 16px;
+    padding-top: 4px;
+    font-size: 20px;
+}
+
+.preview {
+    margin: 10px;
+    margin-top: 15px;
+    border-radius: 10px;
+    border-style:solid; 
+    border-width: 4px;
+    border-color: #eee;
+    height: 145px;
+    width: 232px;
+    float:left;
+}
+.anticon-up {
+    font-family:"iconfont" !important;
+    text-align: center;
+    font-size:25px;    /*控制icon大小 */
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+    float: right;
+    margin-top: 3px;
+    margin-right: 10px;
+}
+
+.bookmarksDown{
+    font-family:"iconfont" !important;
+    text-align: center;
+    font-size:25px;    /*控制icon大小 */
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+    float: right;
+    margin-top: 3px;
+    margin-right: 10px;
+}

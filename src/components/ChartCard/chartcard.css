@@ -1,0 +1,65 @@
+.chartcard {
+    height: 40px;
+    /* margin-left: 20px; */
+    /* border-style: solid;
+    border-color: #D8D8D8;
+    border-width: 1px;
+    border-radius: 4px; */
+    /* margin-bottom: 8px; */
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    vertical-align: middle;
+}
+
+.anticon-area-chart{
+    font-size: 28px;
+    margin-top: 5px;
+    margin-left: 2px;
+}
+
+.anticon-bar-chart{
+    font-size: 28px;
+    margin-top: 5px;
+    margin-left: 2px;
+}
+
+.anticon-line-chart{
+    font-size: 28px;
+    margin-top: 5px;
+    margin-left: 2px;
+}
+
+.anticon-dot-chart{
+    font-size: 28px;
+    margin-top: 5px;
+    margin-left: 2px;
+}
+
+.anticon-radar-chart{
+    font-size: 28px;
+    margin-top: 5px;
+    /* margin-left: 2px; */
+}
+.anticon-pie-chart{
+    font-size: 28px;
+    margin-top: 5px;
+    margin-left: 2px;
+}
+.anticon-global{
+    font-size: 28px;
+    margin-top: 5px;
+    margin-left: 2px;
+}
+.anticon-heat-map{
+    font-size: 28px;
+    margin-top: 5px;
+    margin-left: 2px;
+}
+.anticon-appstore{
+    font-size: 28px;
+    margin-top: 5px;
+    margin-left: 2px;
+}

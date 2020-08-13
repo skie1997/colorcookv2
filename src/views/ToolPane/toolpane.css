@@ -1,0 +1,111 @@
+.card-container-tool > .ant-tabs-card > .ant-tabs-content {
+    /* height: 500px; */
+    margin-top: -6px;
+    z-index: 5;
+    width:300px;
+}
+
+.card-container-tool > .ant-tabs-card > .ant-tabs-content > .ant-tabs-tabpane {
+    background: #fff;
+}
+
+.card-container-tool > .ant-tabs-card > .ant-tabs-bar .ant-tabs-tab {
+    border-color: transparent;
+    background: transparent;
+}
+
+.anticon-account-book{
+    font-size: 30px;
+}
+
+.anticon-wifi{
+    font-size: 30px;
+}
+
+.anticon-read{
+    font-size: 30px;
+}
+
+.anticon-control{
+    font-size: 30px;
+}
+
+.anticon-console-sql{
+    font-size: 30px;
+}
+
+.anticon-shop{
+    font-size: 30px;
+}
+
+.anticon-heart{
+    font-size: 30px;
+}
+
+.anticon-notification{
+    font-size: 30px;
+}
+
+.anticon-dollar{
+    font-size: 30px;
+}
+
+.anticon-video-camera{
+    font-size: 30px;
+}
+
+.anticon-bulb{
+    font-size: 15px;
+    margin-right: 5px;
+}
+
+.ant-btn-sm{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.ant-upload.ant-upload-drag p.ant-upload-drag-icon .anticon {
+    color:  #00aeff !important;
+    font-size: 30px;
+}
+
+.ant-btn .ant-btn-dashed .primary .ant-btn-icon-only {
+    width: 22px;
+    height: 22px;
+}
+
+.ant-btn .anticon.anticon-plus > svg{
+    margin-left: 1px;
+    margin-bottom: 8px;
+    font-size: 10px;
+}
+
+.anticon-close-circle{
+    position: absolute;
+    font-size: 10px;
+    z-index: 1;
+    margin-left: 10px;
+    margin-top: 2px;
+}
+
+.sketch-picker {
+    position: fixed;
+    margin-top: -80px;
+    margin-left: 25px;
+    z-index: 9999;
+    width: 100px;
+}
+.ant-table-thead > tr > th, .ant-table-tbody > tr > td{
+    padding: 6px 6px;
+}
+.ant-row {
+    margin-bottom: 10px;
+}
+/* .colorBtn{
+    z-index: 1;
+} */
+
+/* .sketch-picker div:not(:flexbox-fix){
+    display: none;
+} */
+

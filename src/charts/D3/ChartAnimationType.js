@@ -1,0 +1,17 @@
+export default {
+    TREND: 'Trend',
+    REGRESSION: 'Regression',
+    EMPHASIZE_CATEGORY : 'Emphasize Category',
+    EMPHASIZE_EXTREME : 'Emphasize Extreme',
+    EMPHASIZE_SERIES : 'Emphasize Series',
+    EMPHASIZE_VALUE : 'Emphasize Value',
+    COMPARE_CATEGORIES : 'Compare Categories',
+    COMPARE_EXTREMES : 'Compare Extremes',
+    COMPARE_SERIES : 'Compare Series',
+    COMPARE_VALUES : 'Compare Values',
+    RECONFIGURE_ORDER : 'Reconfigure Order',
+    RECONFIGURE_STYLE : 'Reconfigure Style',
+    GRANULARITY_ZOOMIN : 'Granularity ZoomIn',
+    GRANULARITY_ZOOMOUT : 'Granularity ZoomOut',
+    GRANULARITY_SCOPE : 'Granularity Scope',
+}

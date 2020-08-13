@@ -1,0 +1,47 @@
+.card-container > .ant-spin-nested-loading > .ant-spin-container >.ant-tabs-card > .ant-tabs-content {
+    /* height: 500px; */
+    margin-top: -6px;
+    z-index:5;
+    
+}
+
+.card-container > .ant-spin-nested-loading > .ant-spin-container >.ant-tabs-card > .ant-tabs-content > .ant-tabs-tabpane {
+    background: #fff;
+}
+
+.card-container > .ant-spin-nested-loading > .ant-spin-container >.ant-tabs-card > .ant-tabs-bar .ant-tabs-tab {
+    border-color: transparent;
+    background: transparent;
+    height: 50px;
+    border-bottom:1px solid #e8e8e8;
+}
+
+.card-container > .ant-spin-nested-loading > .ant-spin-container >.ant-tabs-card > .ant-tabs-bar{
+    width: 60px;
+}
+
+.card-container >.ant-spin-nested-loading > .ant-spin-container > .ant-tabs-card > .ant-tabs-card-bar .ant-tabs-tab .ant-tabs-close-x{
+
+    margin-left: 0px;
+    /*margin-top: 0px; */
+    position: absolute;
+
+}
+
+
+.card-container >.ant-spin-nested-loading > .ant-spin-container > .ant-tabs-card > .ant-tabs-bar >  .ant-tabs-extra-content .ant-tabs-new-tab{
+    width:20px;
+}
+
+.card-container >.ant-spin-nested-loading > .ant-spin-container > .ant-tabs .ant-tabs-left-content{
+    padding-left: 0px;
+}
+
+
+/* 如何动态赋值？ */
+/* contenheight- 上下箭头 */
+.card-container >.ant-spin-nested-loading > .ant-spin-container > .ant-tabs .ant-tabs-left-bar .ant-tabs-nav{
+    overflow-x:hidden;
+    overflow-y:auto;
+    height:100%;
+}
